@@ -1,6 +1,6 @@
 # encryptSsage
 
-> A secret message sharing app!
+> Encrypt + message = encryptSsage a secret message sharing app!
 
 Built using:
 - ES6
